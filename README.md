@@ -23,7 +23,10 @@ Explore my portfolio to see how I've applied my analytical skills to solve compl
 ### Tableau
 1. HR Analytics Dashboard
   ![image](https://github.com/Prajwal291002/Data-analyst-portfolio/assets/96053771/3d6426b7-de73-4241-a617-09a5575419be)
+  [Viz Link ](https://public.tableau.com/views/HRAnalyticsDashboard_16958739018530/HRDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+2. Road Accident Dashboard
+   ![image](https://github.com/Prajwal291002/Data-analyst-portfolio/assets/96053771/4fa2a9c2-ae2b-4076-8075-e4a1c47dc3f5)
+   [Viz Link ](https://public.tableau.com/views/Book2_16938327873150/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-2. Car Accident Dashboard
 
