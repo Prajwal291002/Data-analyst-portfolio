@@ -22,7 +22,8 @@ Explore my portfolio to see how I've applied my analytical skills to solve compl
 ## Portfolio Projects 
 ### Tableau
 1. HR Analytics Dashboard
-  
+  ![image](https://github.com/Prajwal291002/Data-analyst-portfolio/assets/96053771/3d6426b7-de73-4241-a617-09a5575419be)
+
 
 2. Car Accident Dashboard
 
