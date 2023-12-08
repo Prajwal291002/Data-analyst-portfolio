@@ -73,5 +73,5 @@ DATASET : [Sales Data.xlsx](https://github.com/Prajwal291002/Data-analyst-portfo
 
 ## Socials
 
-* LinkedIn : [ → Click Here]( www.linkedin.com/in/prajwal-bhandarkar-3b6b54206)
+* LinkedIn : [Connect 🔗]( www.linkedin.com/in/prajwal-bhandarkar-3b6b54206)
 * Gmail : bhandarkarprajwal.02@gmail.com
