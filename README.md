@@ -15,6 +15,7 @@ Explore my portfolio to see how I've applied my analytical skills to solve compl
 * Portfolio Projects
   - [Tableau](#Tableau)
   - [Power BI](#PowerBI)
+  - MS Excel
 * To be added
 * To be added
 * To be added
@@ -49,6 +50,10 @@ Microsoft Power BI is a data visualization and reporting platform that helps bus
 2. ### Ecommerce sales Dashboard
 
 ![image](https://github.com/Prajwal291002/Data-analyst-portfolio/assets/96053771/05f2a45e-e07e-4573-a0c8-c56badf2572d)
+
+### MS Excel
+#### Excel Dashboard : Sales
+![image](https://github.com/Prajwal291002/Data-analyst-portfolio/assets/96053771/6fc462d5-5f72-4ef0-99fe-bc3a676e969c)
 
 ## Certification
 
