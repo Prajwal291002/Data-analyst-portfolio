@@ -1,4 +1,4 @@
-# Prajwal Bhandarkar - Data Analyst Portfolio
+[Orders.csv](https://github.com/Prajwal291002/Data-analyst-portfolio/files/13615825/Orders.csv)# Prajwal Bhandarkar - Data Analyst Portfolio
 
 ## About
 Welcome to my data analytics portfolio! I am a dedicated data analyst passionate about extracting actionable insights from complex datasets. With expertise in SQL, Python, and R, I specialize in data manipulation, statistical analysis, and visualization.
@@ -54,7 +54,10 @@ DATASET : [Drive Link](https://drive.google.com/drive/folders/17U0ah6Q4MJM_wIn_X
 
 ![image](https://github.com/Prajwal291002/Data-analyst-portfolio/assets/96053771/05f2a45e-e07e-4573-a0c8-c56badf2572d)
 
+DATASET :
+[Orders.csv](https://github.com/Prajwal291002/Data-analyst-portfolio/files/13615942/Orders.csv) \
 
+[Details.csv](https://github.com/Prajwal291002/Data-analyst-portfolio/files/13615981/Details.csv)
 
 
 ### MS Excel
