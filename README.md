@@ -12,7 +12,7 @@ Explore my portfolio to see how I've applied my analytical skills to solve compl
 ## Table of Contents
 
 * [About](#About)
-* [Portfolio Projects](#Portfolio)
+* [Portfolio Projects
   - [Tableau](#Tableau)
   - [Power BI](#PowerBI)
 * To be added
@@ -38,7 +38,7 @@ Here's My Tableau Public Profile - [Take me there ](https://public.tableau.com/a
    Description : \
    Experience It on Tableau : [→Click Here](https://public.tableau.com/views/Book2_16938327873150/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-### Power BI
+### PowerBI
 Microsoft Power BI is a data visualization and reporting platform that helps businesses and professionals find insights in their data. 
 ### My Power BI Projects
 1. ### Pizza Sales Dashboard
