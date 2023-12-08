@@ -21,6 +21,8 @@ Explore my portfolio to see how I've applied my analytical skills to solve compl
 
 ## Portfolio Projects 
 ### Tableau
-* HR Analytics Dashboard
-  ![picture alt](https://public.tableau.com/shared/WMTGDZ6CD?:display_count=n&:origin=viz_share_link "Title is optional")
+1. HR Analytics Dashboard
+  
+
+2. Car Accident Dashboard
 
