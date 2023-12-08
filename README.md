@@ -11,7 +11,7 @@ Explore my portfolio to see how I've applied my analytical skills to solve compl
 
 ## Table of Contents
 
-* About
+* [About](#About)
 * Portfolio Projects
 * To be added
 * To be added
