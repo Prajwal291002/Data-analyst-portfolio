@@ -47,9 +47,14 @@ Microsoft Power BI is a data visualization and reporting platform that helps bus
 
 ![image](https://github.com/Prajwal291002/Data-analyst-portfolio/assets/96053771/5f969d61-00c7-426a-a3ca-ec0114f89f7e)
 
+DATASET : [Drive Link](https://drive.google.com/drive/folders/17U0ah6Q4MJM_wIn_Xl4fHc-1fO6Q4s6z)
+
 2. ### Ecommerce sales Dashboard
 
 ![image](https://github.com/Prajwal291002/Data-analyst-portfolio/assets/96053771/05f2a45e-e07e-4573-a0c8-c56badf2572d)
+
+DATASET : 
+
 
 ### MS Excel
 #### Excel Dashboard : Sales
