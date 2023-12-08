@@ -17,10 +17,7 @@ Explore my portfolio to see how I've applied my analytical skills to solve compl
   - [Power BI](#PowerBI)
   - MS Excel
 * [Certifications](#Certifications)
-* Socials(#Socials)
-* To be added
-* To be added
-* To be added
+* [Socials](#Socials)
 
 ## Portfolio Projects 
 ### Tableau
