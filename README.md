@@ -13,7 +13,9 @@ Explore my portfolio to see how I've applied my analytical skills to solve compl
 
 * About
 * Portfolio Projects
-* * Project 1
+  * Tableau
+    1. HR Analytics Dashboard
+    2. Road Accident Dashboard
 * To be added
 * To be added
 * To be added
