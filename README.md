@@ -1,4 +1,4 @@
-# Prajwal Bhandarkar - Data analyst portfolio
+# Prajwal Bhandarkar - Data Analyst Portfolio
 
 ## About
 Welcome to my data analytics portfolio! I am a dedicated data analyst passionate about extracting actionable insights from complex datasets. With expertise in SQL, Python, and R, I specialize in data manipulation, statistical analysis, and visualization.
@@ -25,13 +25,14 @@ Tableau is a data visualization tool that helps businesses analyze data. It allo
 
 Here's My Tableau Public Profile - [Take me there ](https://public.tableau.com/app/profile/prajwal.bhandarkar/vizzes)
 
-1. HR Analytics Dashboard
+### My Tableau Projects 
+1. ### HR Analytics Dashboard
   ![image](https://github.com/Prajwal291002/Data-analyst-portfolio/assets/96053771/3d6426b7-de73-4241-a617-09a5575419be)
-   Experience It on Tableau : [Click Here ← ](https://public.tableau.com/views/HRAnalyticsDashboard_16958739018530/HRDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)
+   Experience It on Tableau : [→Click Here](https://public.tableau.com/views/HRAnalyticsDashboard_16958739018530/HRDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-2. Road Accident Dashboard
+2. ### Road Accident Dashboard
    ![image](https://github.com/Prajwal291002/Data-analyst-portfolio/assets/96053771/4fa2a9c2-ae2b-4076-8075-e4a1c47dc3f5)
-   Experience It on Tableau : [Click Here ← ](https://public.tableau.com/views/Book2_16938327873150/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+   Experience It on Tableau : [→Click Here](https://public.tableau.com/views/Book2_16938327873150/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Power BI
-
+Microsoft Power BI is a data visualization and reporting platform that helps businesses and professionals find insights in their data. 
