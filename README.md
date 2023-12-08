@@ -12,3 +12,11 @@ Explore my portfolio to see how I've applied my analytical skills to solve compl
 ## Table of Contents
 
 * About
+* Portfolio Projects
+* * Project 1
+* To be added
+* To be added
+* To be added
+* To be added
+* To be added
+
