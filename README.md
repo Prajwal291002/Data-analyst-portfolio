@@ -53,13 +53,14 @@ DATASET : [Drive Link](https://drive.google.com/drive/folders/17U0ah6Q4MJM_wIn_X
 
 ![image](https://github.com/Prajwal291002/Data-analyst-portfolio/assets/96053771/05f2a45e-e07e-4573-a0c8-c56badf2572d)
 
-DATASET : [Sales Data.xlsx](https://github.com/Prajwal291002/Data-analyst-portfolio/files/13615684/Sales.Data.xlsx)
 
 
 
 ### MS Excel
 #### Excel Dashboard : Sales
 ![image](https://github.com/Prajwal291002/Data-analyst-portfolio/assets/96053771/6fc462d5-5f72-4ef0-99fe-bc3a676e969c)
+DATASET : [Sales Data.xlsx](https://github.com/Prajwal291002/Data-analyst-portfolio/files/13615684/Sales.Data.xlsx)
+
 
 ## Certification
 
