@@ -12,7 +12,7 @@ Explore my portfolio to see how I've applied my analytical skills to solve compl
 ## Table of Contents
 
 * [About](#About)
-* [Portfolio Projects](portfolio-projects)
+* Portfolio Projects
   - [Tableau](#Tableau)
   - [Power BI](#PowerBI)
   - MS Excel
