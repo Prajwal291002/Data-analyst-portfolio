@@ -38,3 +38,13 @@ Here's My Tableau Public Profile - [Take me there ](https://public.tableau.com/a
 
 ### Power BI
 Microsoft Power BI is a data visualization and reporting platform that helps businesses and professionals find insights in their data. 
+### My Power BI Projects
+1. ### Pizza Sales Dashboard
+![image](https://github.com/Prajwal291002/Data-analyst-portfolio/assets/96053771/5e4a4a72-9e8f-4f56-916d-7899b2afb1e2)
+
+![image](https://github.com/Prajwal291002/Data-analyst-portfolio/assets/96053771/5f969d61-00c7-426a-a3ca-ec0114f89f7e)
+
+2. ### Ecommerce sales Dashboard
+
+![image](https://github.com/Prajwal291002/Data-analyst-portfolio/assets/96053771/05f2a45e-e07e-4573-a0c8-c56badf2572d)
+
