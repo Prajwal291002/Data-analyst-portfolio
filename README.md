@@ -13,12 +13,14 @@ Explore my portfolio to see how I've applied my analytical skills to solve compl
 
 * About
 * Portfolio Projects
-  * Tableau
-    1. HR Analytics Dashboard
-    2. Road Accident Dashboard
 * To be added
 * To be added
 * To be added
 * To be added
 * To be added
+
+## Portfolio Projects 
+### Tableau
+* HR Analytics Dashboard
+  ![picture alt](https://public.tableau.com/shared/WMTGDZ6CD?:display_count=n&:origin=viz_share_link "Title is optional")
 
