@@ -12,7 +12,7 @@ Explore my portfolio to see how I've applied my analytical skills to solve compl
 ## Table of Contents
 
 * [About](#About)
-* [Portfolio Projects](#Portfolio Projects)
+* Portfolio Projects
 * To be added
 * To be added
 * To be added
@@ -21,6 +21,10 @@ Explore my portfolio to see how I've applied my analytical skills to solve compl
 
 ## Portfolio Projects 
 ### Tableau
+Tableau is a data visualization tool that helps businesses analyze data. It allows users to create dashboards and visualizations to share insights with stakeholders. 
+
+Here's My Tableau Public Profile - [Take me there ](https://public.tableau.com/app/profile/prajwal.bhandarkar/vizzes)
+
 1. HR Analytics Dashboard
   ![image](https://github.com/Prajwal291002/Data-analyst-portfolio/assets/96053771/3d6426b7-de73-4241-a617-09a5575419be)
    Experience It on Tableau : [Click Here ← ](https://public.tableau.com/views/HRAnalyticsDashboard_16958739018530/HRDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)
@@ -29,4 +33,5 @@ Explore my portfolio to see how I've applied my analytical skills to solve compl
    ![image](https://github.com/Prajwal291002/Data-analyst-portfolio/assets/96053771/4fa2a9c2-ae2b-4076-8075-e4a1c47dc3f5)
    Experience It on Tableau : [Click Here ← ](https://public.tableau.com/views/Book2_16938327873150/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+### Power BI
 
