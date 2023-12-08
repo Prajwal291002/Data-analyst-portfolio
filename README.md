@@ -12,7 +12,7 @@ Explore my portfolio to see how I've applied my analytical skills to solve compl
 ## Table of Contents
 
 * [About](#About)
-* [Portfolio Projects
+* Portfolio Projects
   - [Tableau](#Tableau)
   - [Power BI](#PowerBI)
 * To be added
@@ -49,4 +49,6 @@ Microsoft Power BI is a data visualization and reporting platform that helps bus
 2. ### Ecommerce sales Dashboard
 
 ![image](https://github.com/Prajwal291002/Data-analyst-portfolio/assets/96053771/05f2a45e-e07e-4573-a0c8-c56badf2572d)
+
+## Certification
 
