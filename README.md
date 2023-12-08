@@ -17,7 +17,7 @@ Explore my portfolio to see how I've applied my analytical skills to solve compl
   - [Power BI](#PowerBI)
   - MS Excel
 * [Certifications](#Certifications)
-* To be added
+* Socials(#Socials)
 * To be added
 * To be added
 * To be added
@@ -70,3 +70,8 @@ DATASET : [Sales Data.xlsx](https://github.com/Prajwal291002/Data-analyst-portfo
 ## Certifications
 1. Google Analytics Professional Certification (COURSERA - 2023)
 2. Pyton for Data Science (NPTEL - 2022)
+
+## Socials
+
+* LinkedIn : [ → Click Here]( www.linkedin.com/in/prajwal-bhandarkar-3b6b54206)
+* Gmail : bhandarkarprajwal.02@gmail.com
