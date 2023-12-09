@@ -65,7 +65,7 @@ DATASET : [Sales Data.xlsx](https://github.com/Prajwal291002/Data-analyst-portfo
 
 
 ## Certifications
-1. Google Analytics Professional Certification (COURSERA - 2023)
+1. Google Analytics Professional Certification (COURSERA - 2023)  [Credential URL ](https://coursera.org/share/a3a4424fa299690f35f67004f020bcd0)
 2. Pyton for Data Science (NPTEL - 2022)
 
 ## Socials
