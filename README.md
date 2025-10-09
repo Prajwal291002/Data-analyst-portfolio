@@ -62,7 +62,8 @@ DATASET : \
 #### Excel Dashboard : Sales
 ![image](https://github.com/Prajwal291002/Data-analyst-portfolio/assets/96053771/6fc462d5-5f72-4ef0-99fe-bc3a676e969c)
 DATASET : [Sales Data.xlsx](https://github.com/Prajwal291002/Data-analyst-portfolio/files/13615684/Sales.Data.xlsx)
-Dashboard : 
+Dashboard : [Dashboard.xlsx](https://github.com/user-attachments/files/22800317/Dashboard.xlsx)
+
 
 
 ## Certifications
