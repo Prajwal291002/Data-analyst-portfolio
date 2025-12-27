@@ -73,5 +73,5 @@ Dashboard : [Dashboard.xlsx](https://github.com/user-attachments/files/22800317/
 
 ## Socials
 
-* LinkedIn : [Connect 🔗] ( www.linkedin.com/in/prajwal-bhandarkar-3b6b54206)
+* LinkedIn : [Connect🔗](www.linkedin.com/in/prajwal-bhandarkar)
 * Gmail : bhandarkarprajwal.02@gmail.com
