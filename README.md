@@ -69,6 +69,7 @@ Dashboard : [Dashboard.xlsx](https://github.com/user-attachments/files/22800317/
 ## Certifications
 1. Google Analytics Professional Certification (COURSERA - 2023)  [Credential URL ](https://coursera.org/share/a3a4424fa299690f35f67004f020bcd0)
 2. Pyton for Data Science (NPTEL - 2022)
+3. Data Analyst in Power BI (DataCamp 2025) [Credential URL](https://www.datacamp.com/completed/statement-of-accomplishment/track/7d6439c072766b08c0500a763ead460f14dd7ba2)
 
 ## Socials
 
