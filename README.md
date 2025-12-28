@@ -15,7 +15,7 @@ Explore my portfolio to see how I've applied my analytical skills to solve compl
 * Portfolio Projects
   - [Tableau](#Tableau)
   - [Power BI](#PowerBI)
-  - MS Excel
+  - [MS Excel](#MS_Excel)
 * [Certifications](#Certifications)
 * [Socials](#Socials)
 
@@ -58,7 +58,7 @@ DATASET : \
 [Details.csv](https://github.com/Prajwal291002/Data-analyst-portfolio/files/13615981/Details.csv)
 
 
-### MS Excel
+### MS_Excel
 #### Excel Dashboard : Sales
 ![image](https://github.com/Prajwal291002/Data-analyst-portfolio/assets/96053771/6fc462d5-5f72-4ef0-99fe-bc3a676e969c)
 DATASET : [Sales Data.xlsx](https://github.com/Prajwal291002/Data-analyst-portfolio/files/13615684/Sales.Data.xlsx)
